@@ -1,6 +1,4 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-students.db
-.env
+out/
+*.class
+.idea/
+*.iml
