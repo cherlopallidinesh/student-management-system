@@ -1,0 +1,501 @@
+roll_no,name,email,phone,gender,dob,department,year,cgpa,city,admission_year
+22BT001,Pooja Shetty,pooja.shetty.22bt001@college.edu,9253407200,Female,2003-08-23,Biotechnology,4,6.3,Pune,2022
+22BT011,Pranav Mishra,pranav.mishra.22bt011@college.edu,9950826208,Male,2004-12-05,Biotechnology,4,9.02,Visakhapatnam,2022
+22BT013,Mohit Agarwal,mohit.agarwal.22bt013@college.edu,9185068029,Male,2003-01-03,Biotechnology,4,5.09,Bengaluru,2022
+22BT015,Manoj Khan,manoj.khan.22bt015@college.edu,9179189225,Male,2004-10-21,Biotechnology,4,5.61,Kolkata,2022
+22BT027,Suresh Pillai,suresh.pillai.22bt027@college.edu,9842716738,Male,2003-09-17,Biotechnology,4,7.05,Secunderabad,2022
+22BT029,Sana Naidu,sana.naidu.22bt029@college.edu,9422406106,Female,2004-02-04,Biotechnology,4,5.22,Vijayawada,2022
+22BT037,Rohan Kumar,rohan.kumar.22bt037@college.edu,9229640083,Male,2004-07-27,Biotechnology,4,7.63,Bengaluru,2022
+22BT038,Sowmya Joshi,sowmya.joshi.22bt038@college.edu,9639440654,Female,2004-10-16,Biotechnology,4,6.58,Mumbai,2022
+22BT039,Vihaan Khan,vihaan.khan.22bt039@college.edu,9629442753,Male,2005-07-31,Biotechnology,4,9.32,Nizamabad,2022
+22BT043,Rahul Joshi,rahul.joshi.22bt043@college.edu,9730157871,Male,2005-08-31,Biotechnology,4,7.7,Nizamabad,2022
+22BT045,Lakshmi Khan,lakshmi.khan.22bt045@college.edu,9221393557,Female,2003-03-27,Biotechnology,4,5.65,Secunderabad,2022
+22BT046,Rohan Das,rohan.das.22bt046@college.edu,9507754288,Male,2005-11-09,Biotechnology,4,8.82,Hyderabad,2022
+22BT051,Ravi Bhat,ravi.bhat.22bt051@college.edu,9273136853,Male,2005-10-30,Biotechnology,4,8.17,Guntur,2022
+22BT052,Aditya Mehta,aditya.mehta.22bt052@college.edu,9991596102,Male,2005-04-23,Biotechnology,4,7.01,Visakhapatnam,2022
+22CE006,Aarav Reddy,aarav.reddy.22ce006@college.edu,9588999385,Male,2003-02-07,Civil,4,7.03,Bengaluru,2022
+22CE008,Arjun Nair,arjun.nair.22ce008@college.edu,9428786222,Male,2003-05-05,Civil,4,8.25,Nizamabad,2022
+22CE014,Harini Patel,harini.patel.22ce014@college.edu,9950961305,Female,2003-12-16,Civil,4,5.88,Chennai,2022
+22CE015,Deepak Khan,deepak.khan.22ce015@college.edu,9349310440,Male,2003-03-15,Civil,4,7.26,Mumbai,2022
+22CE019,Varun Mehta,varun.mehta.22ce019@college.edu,9528133274,Male,2004-08-20,Civil,4,7.04,Vijayawada,2022
+22CE021,Gautam Goud,gautam.goud.22ce021@college.edu,9466034277,Male,2004-08-20,Civil,4,5.77,Delhi,2022
+22CE024,Mounika Patel,mounika.patel.22ce024@college.edu,9148644109,Female,2003-01-21,Civil,4,5.19,Kolkata,2022
+22CE029,Manoj Patel,manoj.patel.22ce029@college.edu,9165452764,Male,2004-05-20,Civil,4,7.73,Chennai,2022
+22CE031,Tarun Pillai,tarun.pillai.22ce031@college.edu,9445331485,Male,2005-10-10,Civil,4,8.8,Karimnagar,2022
+22CE033,Gautam Mehta,gautam.mehta.22ce033@college.edu,9174258554,Male,2004-12-20,Civil,4,9.01,Guntur,2022
+22CE034,Ananya Mishra,ananya.mishra.22ce034@college.edu,9517509245,Female,2003-08-08,Civil,4,5.02,Bengaluru,2022
+22CE035,Ravi Patel,ravi.patel.22ce035@college.edu,9801228319,Male,2003-09-16,Civil,4,7.43,Khammam,2022
+22CE041,Swathi Naidu,swathi.naidu.22ce041@college.edu,9176248559,Female,2003-11-01,Civil,4,7.59,Hyderabad,2022
+22CE054,Pallavi Agarwal,pallavi.agarwal.22ce054@college.edu,9644725181,Female,2003-07-03,Civil,4,6.47,Chennai,2022
+22CE058,Keerthi Mishra,keerthi.mishra.22ce058@college.edu,9826166835,Female,2004-12-05,Civil,4,8.14,Visakhapatnam,2022
+22CE062,Neha Nair,neha.nair.22ce062@college.edu,9109452902,Female,2003-11-29,Civil,4,5.56,Nizamabad,2022
+22CE065,Aditya Bhat,aditya.bhat.22ce065@college.edu,9677409188,Male,2005-04-16,Civil,4,9.06,Guntur,2022
+22CE069,Neha Reddy,neha.reddy.22ce069@college.edu,9383851293,Female,2005-02-02,Civil,4,6.81,Secunderabad,2022
+22CE070,Faizan Naidu,faizan.naidu.22ce070@college.edu,9207673349,Male,2003-03-24,Civil,4,6.05,Karimnagar,2022
+22CH001,Pallavi Menon,pallavi.menon.22ch001@college.edu,9248532577,Female,2004-04-22,Chemical,4,7.5,Warangal,2022
+22CH006,Mounika Mehta,mounika.mehta.22ch006@college.edu,9583258726,Female,2005-09-01,Chemical,4,6.27,Pune,2022
+22CH007,Mohit Menon,mohit.menon.22ch007@college.edu,9420632895,Male,2005-06-30,Chemical,4,8.69,Guntur,2022
+22CH012,Lakshmi Kumar,lakshmi.kumar.22ch012@college.edu,9473620340,Female,2005-08-29,Chemical,4,7.0,Kolkata,2022
+22CH013,Sai Verma,sai.verma.22ch013@college.edu,9529982328,Male,2004-12-05,Chemical,4,8.99,Secunderabad,2022
+22CH019,Anjali Bhat,anjali.bhat.22ch019@college.edu,9544726404,Female,2003-08-15,Chemical,4,6.34,Vijayawada,2022
+22CH021,Imran Rao,imran.rao.22ch021@college.edu,9950207886,Male,2003-10-11,Chemical,4,8.62,Secunderabad,2022
+22CH024,Mounika Nair,mounika.nair.22ch024@college.edu,9960345542,Female,2005-04-13,Chemical,4,7.96,Mumbai,2022
+22CH027,Divya Naidu,divya.naidu.22ch027@college.edu,9411871167,Female,2004-03-15,Chemical,4,5.21,Warangal,2022
+22CH028,Sai Pillai,sai.pillai.22ch028@college.edu,9193133974,Male,2003-06-17,Chemical,4,6.96,Vijayawada,2022
+22CH030,Swathi Mehta,swathi.mehta.22ch030@college.edu,9810594320,Female,2005-12-16,Chemical,4,9.29,Visakhapatnam,2022
+22CH032,Anjali Bhat,anjali.bhat.22ch032@college.edu,9594592624,Female,2005-05-07,Chemical,4,6.7,Mumbai,2022
+22CH033,Gautam Reddy,gautam.reddy.22ch033@college.edu,9333291033,Male,2005-10-04,Chemical,4,8.7,Secunderabad,2022
+22CH043,Ananya Nair,ananya.nair.22ch043@college.edu,9360642799,Female,2005-10-14,Chemical,4,7.8,Chennai,2022
+22CH049,Shruti Patel,shruti.patel.22ch049@college.edu,9833303441,Female,2004-10-06,Chemical,4,5.85,Khammam,2022
+22CH050,Aisha Agarwal,aisha.agarwal.22ch050@college.edu,9188506190,Female,2003-07-25,Chemical,4,8.14,Visakhapatnam,2022
+22CH052,Meera Sharma,meera.sharma.22ch052@college.edu,9368277223,Female,2003-10-09,Chemical,4,5.46,Vijayawada,2022
+22CH056,Harsha Goud,harsha.goud.22ch056@college.edu,9611382735,Male,2003-05-01,Chemical,4,6.46,Karimnagar,2022
+22CH059,Lakshmi Das,lakshmi.das.22ch059@college.edu,9726016935,Female,2003-01-19,Chemical,4,8.47,Bengaluru,2022
+22CH060,Aditya Verma,aditya.verma.22ch060@college.edu,9868443155,Male,2005-06-11,Chemical,4,5.88,Warangal,2022
+22CH067,Kiran Kumar,kiran.kumar.22ch067@college.edu,9337509631,Male,2005-06-28,Chemical,4,9.33,Kolkata,2022
+22CH070,Kiran Joshi,kiran.joshi.22ch070@college.edu,9142847338,Male,2004-01-24,Chemical,4,9.8,Kolkata,2022
+22CS006,Suresh Patel,suresh.patel.22cs006@college.edu,9811890569,Male,2003-10-16,Computer Science,4,5.13,Guntur,2022
+22CS010,Priya Pillai,priya.pillai.22cs010@college.edu,9748232591,Female,2003-06-15,Computer Science,4,6.23,Warangal,2022
+22CS012,Manoj Yadav,manoj.yadav.22cs012@college.edu,9221827951,Male,2005-04-26,Computer Science,4,7.26,Vijayawada,2022
+22CS013,Lakshmi Bhat,lakshmi.bhat.22cs013@college.edu,9686905284,Female,2004-12-12,Computer Science,4,5.77,Tirupati,2022
+22CS014,Ananya Menon,ananya.menon.22cs014@college.edu,9751831074,Female,2004-04-27,Computer Science,4,8.93,Pune,2022
+22CS017,Harsha Mishra,harsha.mishra.22cs017@college.edu,9183604337,Male,2005-08-24,Computer Science,4,9.22,Guntur,2022
+22CS020,Priya Goud,priya.goud.22cs020@college.edu,9782546314,Female,2004-01-23,Computer Science,4,6.9,Nizamabad,2022
+22CS025,Nandini Nair,nandini.nair.22cs025@college.edu,9940636753,Female,2004-12-01,Computer Science,4,9.76,Pune,2022
+22CS034,Rahul Goud,rahul.goud.22cs034@college.edu,9403124688,Male,2005-08-27,Computer Science,4,8.79,Delhi,2022
+22CS038,Kavya Kumar,kavya.kumar.22cs038@college.edu,9295508799,Female,2003-01-17,Computer Science,4,7.95,Pune,2022
+22CS045,Swathi Khan,swathi.khan.22cs045@college.edu,9336079027,Female,2005-10-01,Computer Science,4,5.67,Karimnagar,2022
+22CS046,Sai Bhat,sai.bhat.22cs046@college.edu,9178538388,Male,2003-10-09,Computer Science,4,6.42,Warangal,2022
+22CS047,Aarav Goud,aarav.goud.22cs047@college.edu,9139359410,Male,2003-04-19,Computer Science,4,7.7,Khammam,2022
+22EC003,Gautam Mehta,gautam.mehta.22ec003@college.edu,9414797776,Male,2005-10-10,Electronics,4,9.06,Nizamabad,2022
+22EC008,Tanvi Goud,tanvi.goud.22ec008@college.edu,9373506211,Female,2003-04-08,Electronics,4,5.22,Guntur,2022
+22EC016,Varun Shetty,varun.shetty.22ec016@college.edu,9400368694,Male,2003-07-28,Electronics,4,5.16,Nizamabad,2022
+22EC019,Sowmya Joshi,sowmya.joshi.22ec019@college.edu,9567804106,Female,2005-05-05,Electronics,4,7.89,Warangal,2022
+22EC023,Gautam Das,gautam.das.22ec023@college.edu,9685698675,Male,2003-04-03,Electronics,4,6.44,Vijayawada,2022
+22EC029,Bhavana Sharma,bhavana.sharma.22ec029@college.edu,9881155839,Female,2005-05-16,Electronics,4,6.79,Karimnagar,2022
+22EC033,Tarun Kumar,tarun.kumar.22ec033@college.edu,9942217648,Male,2004-11-26,Electronics,4,6.62,Vijayawada,2022
+22EC049,Vihaan Das,vihaan.das.22ec049@college.edu,9258783057,Male,2005-11-18,Electronics,4,9.09,Mumbai,2022
+22EC050,Pallavi Rao,pallavi.rao.22ec050@college.edu,9692763677,Female,2003-07-23,Electronics,4,6.6,Mumbai,2022
+22EC053,Pooja Goud,pooja.goud.22ec053@college.edu,9543570539,Female,2003-06-02,Electronics,4,5.26,Visakhapatnam,2022
+22EC054,Divya Patel,divya.patel.22ec054@college.edu,9428688580,Female,2003-10-29,Electronics,4,5.82,Secunderabad,2022
+22EC056,Manoj Naidu,manoj.naidu.22ec056@college.edu,9314479266,Male,2005-11-08,Electronics,4,8.81,Bengaluru,2022
+22EC060,Ravi Chowdary,ravi.chowdary.22ec060@college.edu,9168006560,Male,2004-01-24,Electronics,4,6.28,Kolkata,2022
+22EE004,Kavya Bhat,kavya.bhat.22ee004@college.edu,9110002396,Female,2004-02-07,Electrical,4,7.25,Vijayawada,2022
+22EE007,Faizan Shetty,faizan.shetty.22ee007@college.edu,9199104722,Male,2004-01-27,Electrical,4,8.11,Mumbai,2022
+22EE008,Gautam Nair,gautam.nair.22ee008@college.edu,9848621833,Male,2004-07-25,Electrical,4,6.45,Visakhapatnam,2022
+22EE010,Ravi Gupta,ravi.gupta.22ee010@college.edu,9517532243,Male,2004-01-15,Electrical,4,6.65,Karimnagar,2022
+22EE018,Manoj Mishra,manoj.mishra.22ee018@college.edu,9678296492,Male,2005-08-17,Electrical,4,7.37,Kolkata,2022
+22EE023,Tanvi Goud,tanvi.goud.22ee023@college.edu,9561923010,Female,2003-11-06,Electrical,4,5.49,Vijayawada,2022
+22EE025,Harini Naidu,harini.naidu.22ee025@college.edu,9431162800,Female,2003-12-08,Electrical,4,5.22,Karimnagar,2022
+22EE027,Nikhil Joshi,nikhil.joshi.22ee027@college.edu,9828960875,Male,2004-06-22,Electrical,4,7.93,Kolkata,2022
+22EE028,Ajay Gupta,ajay.gupta.22ee028@college.edu,9828326405,Male,2005-07-08,Electrical,4,9.64,Tirupati,2022
+22EE029,Vihaan Verma,vihaan.verma.22ee029@college.edu,9371993587,Male,2003-08-31,Electrical,4,5.18,Bengaluru,2022
+22EE031,Pooja Pillai,pooja.pillai.22ee031@college.edu,9245737277,Female,2005-03-04,Electrical,4,9.18,Tirupati,2022
+22EE034,Anjali Shetty,anjali.shetty.22ee034@college.edu,9989006374,Female,2005-04-14,Electrical,4,7.64,Mumbai,2022
+22EE036,Harini Patel,harini.patel.22ee036@college.edu,9608436962,Female,2005-10-03,Electrical,4,6.18,Pune,2022
+22EE038,Ananya Shetty,ananya.shetty.22ee038@college.edu,9482049366,Female,2004-04-26,Electrical,4,7.71,Karimnagar,2022
+22EE043,Sana Patel,sana.patel.22ee043@college.edu,9181084980,Female,2004-08-19,Electrical,4,8.1,Warangal,2022
+22EE053,Diya Kumar,diya.kumar.22ee053@college.edu,9753538609,Female,2005-11-13,Electrical,4,8.34,Karimnagar,2022
+22EE054,Divya Nair,divya.nair.22ee054@college.edu,9205460113,Female,2003-12-17,Electrical,4,9.77,Pune,2022
+22EE056,Lakshmi Menon,lakshmi.menon.22ee056@college.edu,9157635190,Female,2005-08-29,Electrical,4,9.25,Warangal,2022
+22IT002,Swathi Bhat,swathi.bhat.22it002@college.edu,9229927269,Female,2003-08-20,Information Technology,4,6.21,Warangal,2022
+22IT004,Varun Das,varun.das.22it004@college.edu,9322086735,Male,2004-02-01,Information Technology,4,9.08,Karimnagar,2022
+22IT005,Sneha Das,sneha.das.22it005@college.edu,9567600762,Female,2003-03-20,Information Technology,4,5.86,Mumbai,2022
+22IT006,Bhavana Goud,bhavana.goud.22it006@college.edu,9455184454,Female,2003-10-09,Information Technology,4,6.72,Tirupati,2022
+22IT018,Anjali Reddy,anjali.reddy.22it018@college.edu,9949842840,Female,2004-11-23,Information Technology,4,9.64,Warangal,2022
+22IT024,Aarav Mehta,aarav.mehta.22it024@college.edu,9841419015,Male,2005-07-31,Information Technology,4,6.0,Khammam,2022
+22IT026,Rohan Das,rohan.das.22it026@college.edu,9927603754,Male,2005-12-15,Information Technology,4,5.67,Chennai,2022
+22IT033,Keerthi Yadav,keerthi.yadav.22it033@college.edu,9948790854,Female,2003-03-13,Information Technology,4,9.84,Warangal,2022
+22IT037,Mohit Sharma,mohit.sharma.22it037@college.edu,9168582026,Male,2004-09-25,Information Technology,4,6.29,Warangal,2022
+22IT039,Vihaan Chowdary,vihaan.chowdary.22it039@college.edu,9137971349,Male,2005-04-02,Information Technology,4,7.71,Guntur,2022
+22IT046,Harini Khan,harini.khan.22it046@college.edu,9601113183,Female,2004-04-21,Information Technology,4,6.48,Karimnagar,2022
+22IT048,Divya Mehta,divya.mehta.22it048@college.edu,9468006578,Female,2003-03-10,Information Technology,4,9.88,Khammam,2022
+22ME001,Rohan Patel,rohan.patel.22me001@college.edu,9513140753,Male,2003-02-02,Mechanical,4,6.87,Tirupati,2022
+22ME004,Harsha Reddy,harsha.reddy.22me004@college.edu,9384759615,Male,2005-07-19,Mechanical,4,9.54,Tirupati,2022
+22ME019,Aisha Verma,aisha.verma.22me019@college.edu,9574817290,Female,2005-08-29,Mechanical,4,8.09,Mumbai,2022
+22ME022,Mounika Pillai,mounika.pillai.22me022@college.edu,9294181873,Female,2005-03-25,Mechanical,4,9.07,Chennai,2022
+22ME023,Anjali Goud,anjali.goud.22me023@college.edu,9976928440,Female,2005-04-24,Mechanical,4,7.21,Nizamabad,2022
+22ME025,Swathi Verma,swathi.verma.22me025@college.edu,9494435754,Female,2003-09-12,Mechanical,4,9.53,Mumbai,2022
+22ME027,Rohan Sharma,rohan.sharma.22me027@college.edu,9703091482,Male,2003-07-18,Mechanical,4,5.58,Mumbai,2022
+22ME031,Naveen Chowdary,naveen.chowdary.22me031@college.edu,9360056579,Male,2005-12-15,Mechanical,4,5.15,Vijayawada,2022
+22ME032,Diya Mehta,diya.mehta.22me032@college.edu,9161994392,Female,2004-10-15,Mechanical,4,7.74,Delhi,2022
+22ME039,Varun Agarwal,varun.agarwal.22me039@college.edu,9511318205,Male,2005-04-28,Mechanical,4,5.44,Vijayawada,2022
+22ME047,Naveen Ahmed,naveen.ahmed.22me047@college.edu,9759792599,Male,2005-03-08,Mechanical,4,7.13,Guntur,2022
+22ME048,Mounika Singh,mounika.singh.22me048@college.edu,9340863230,Female,2005-04-27,Mechanical,4,8.56,Visakhapatnam,2022
+22ME050,Aarav Shetty,aarav.shetty.22me050@college.edu,9180385942,Male,2004-03-25,Mechanical,4,8.68,Kolkata,2022
+22ME051,Anjali Bhat,anjali.bhat.22me051@college.edu,9890503688,Female,2005-09-29,Mechanical,4,5.24,Guntur,2022
+22ME061,Sai Iyer,sai.iyer.22me061@college.edu,9784642175,Male,2003-10-16,Mechanical,4,5.09,Delhi,2022
+22ME063,Deepak Naidu,deepak.naidu.22me063@college.edu,9141915191,Male,2003-11-04,Mechanical,4,9.3,Vijayawada,2022
+22ME065,Neha Naidu,neha.naidu.22me065@college.edu,9372336071,Female,2003-10-27,Mechanical,4,6.28,Guntur,2022
+23BT005,Ishita Singh,ishita.singh.23bt005@college.edu,9339362341,Female,2005-04-27,Biotechnology,3,5.12,Bengaluru,2023
+23BT009,Aditya Mishra,aditya.mishra.23bt009@college.edu,9916267011,Male,2004-10-28,Biotechnology,3,7.57,Delhi,2023
+23BT010,Anjali Naidu,anjali.naidu.23bt010@college.edu,9392322121,Female,2004-07-25,Biotechnology,3,7.45,Khammam,2023
+23BT012,Imran Rao,imran.rao.23bt012@college.edu,9225279834,Male,2004-07-28,Biotechnology,3,5.68,Secunderabad,2023
+23BT016,Riya Mehta,riya.mehta.23bt016@college.edu,9196689473,Female,2005-01-12,Biotechnology,3,9.63,Tirupati,2023
+23BT017,Riya Goud,riya.goud.23bt017@college.edu,9495521185,Female,2005-01-09,Biotechnology,3,6.62,Vijayawada,2023
+23BT020,Meera Mishra,meera.mishra.23bt020@college.edu,9115122787,Female,2004-04-05,Biotechnology,3,8.61,Delhi,2023
+23BT025,Rahul Singh,rahul.singh.23bt025@college.edu,9834899763,Male,2006-02-08,Biotechnology,3,9.54,Secunderabad,2023
+23BT031,Vikram Bhat,vikram.bhat.23bt031@college.edu,9756387421,Male,2004-07-17,Biotechnology,3,6.92,Vijayawada,2023
+23BT041,Manoj Mishra,manoj.mishra.23bt041@college.edu,9749591392,Male,2005-08-02,Biotechnology,3,8.16,Bengaluru,2023
+23BT042,Pooja Das,pooja.das.23bt042@college.edu,9949856342,Female,2006-09-21,Biotechnology,3,5.78,Delhi,2023
+23BT048,Imran Bhat,imran.bhat.23bt048@college.edu,9976805431,Male,2005-01-28,Biotechnology,3,6.09,Tirupati,2023
+23BT049,Bhavana Ahmed,bhavana.ahmed.23bt049@college.edu,9222431652,Female,2004-08-19,Biotechnology,3,5.48,Pune,2023
+23BT050,Sneha Singh,sneha.singh.23bt050@college.edu,9820798124,Female,2005-03-07,Biotechnology,3,8.21,Vijayawada,2023
+23BT054,Bhavana Yadav,bhavana.yadav.23bt054@college.edu,9469749767,Female,2005-10-23,Biotechnology,3,8.79,Karimnagar,2023
+23CE004,Keerthi Mishra,keerthi.mishra.23ce004@college.edu,9216066793,Female,2006-12-26,Civil,3,6.87,Secunderabad,2023
+23CE005,Kiran Yadav,kiran.yadav.23ce005@college.edu,9813219781,Male,2005-02-05,Civil,3,9.51,Kolkata,2023
+23CE010,Aditya Nair,aditya.nair.23ce010@college.edu,9115191689,Male,2006-06-04,Civil,3,8.47,Visakhapatnam,2023
+23CE012,Harini Reddy,harini.reddy.23ce012@college.edu,9771527524,Female,2004-09-12,Civil,3,7.17,Secunderabad,2023
+23CE016,Suresh Mehta,suresh.mehta.23ce016@college.edu,9494422907,Male,2006-12-18,Civil,3,7.67,Nizamabad,2023
+23CE022,Nandini Shetty,nandini.shetty.23ce022@college.edu,9638339044,Female,2004-08-31,Civil,3,5.74,Secunderabad,2023
+23CE025,Tarun Patel,tarun.patel.23ce025@college.edu,9664226794,Male,2004-09-01,Civil,3,6.85,Chennai,2023
+23CE028,Kiran Nair,kiran.nair.23ce028@college.edu,9929506584,Male,2004-11-02,Civil,3,8.3,Kolkata,2023
+23CE030,Ishita Iyer,ishita.iyer.23ce030@college.edu,9582954920,Female,2004-02-10,Civil,3,9.15,Warangal,2023
+23CE036,Diya Iyer,diya.iyer.23ce036@college.edu,9707362554,Female,2006-08-23,Civil,3,8.64,Khammam,2023
+23CE037,Sneha Mishra,sneha.mishra.23ce037@college.edu,9382195698,Female,2006-08-19,Civil,3,6.71,Warangal,2023
+23CE043,Varun Sharma,varun.sharma.23ce043@college.edu,9110302352,Male,2004-12-21,Civil,3,9.66,Hyderabad,2023
+23CE044,Keerthi Patel,keerthi.patel.23ce044@college.edu,9959870518,Female,2005-06-11,Civil,3,6.93,Kolkata,2023
+23CE046,Vihaan Pillai,vihaan.pillai.23ce046@college.edu,9691297450,Male,2005-07-30,Civil,3,7.35,Warangal,2023
+23CE052,Diya Joshi,diya.joshi.23ce052@college.edu,9642375317,Female,2005-08-26,Civil,3,6.95,Vijayawada,2023
+23CE053,Imran Gupta,imran.gupta.23ce053@college.edu,9651131533,Male,2004-07-28,Civil,3,5.1,Hyderabad,2023
+23CE055,Aisha Rao,aisha.rao.23ce055@college.edu,9551478978,Female,2006-06-07,Civil,3,8.86,Kolkata,2023
+23CE057,Tarun Bhat,tarun.bhat.23ce057@college.edu,9838993835,Male,2004-09-24,Civil,3,8.43,Vijayawada,2023
+23CE059,Harini Pillai,harini.pillai.23ce059@college.edu,9415866432,Female,2005-06-25,Civil,3,7.22,Visakhapatnam,2023
+23CE061,Mohit Mishra,mohit.mishra.23ce061@college.edu,9832999366,Male,2005-04-01,Civil,3,5.36,Chennai,2023
+23CE064,Diya Nair,diya.nair.23ce064@college.edu,9203032434,Female,2004-02-12,Civil,3,5.82,Hyderabad,2023
+23CE066,Tanvi Rao,tanvi.rao.23ce066@college.edu,9452558912,Female,2005-08-19,Civil,3,8.02,Delhi,2023
+23CE067,Nikhil Khan,nikhil.khan.23ce067@college.edu,9638076911,Male,2006-08-26,Civil,3,7.5,Karimnagar,2023
+23CH005,Divya Singh,divya.singh.23ch005@college.edu,9574765466,Female,2005-08-15,Chemical,3,8.31,Khammam,2023
+23CH008,Lakshmi Ahmed,lakshmi.ahmed.23ch008@college.edu,9120812641,Female,2006-08-29,Chemical,3,8.67,Secunderabad,2023
+23CH009,Nikhil Yadav,nikhil.yadav.23ch009@college.edu,9795294275,Male,2006-09-17,Chemical,3,6.67,Guntur,2023
+23CH010,Nandini Pillai,nandini.pillai.23ch010@college.edu,9448981305,Female,2006-09-11,Chemical,3,5.89,Bengaluru,2023
+23CH014,Pranav Bhat,pranav.bhat.23ch014@college.edu,9680911523,Male,2004-09-06,Chemical,3,5.18,Warangal,2023
+23CH015,Nandini Nair,nandini.nair.23ch015@college.edu,9313907621,Female,2005-06-04,Chemical,3,9.9,Khammam,2023
+23CH020,Sowmya Shetty,sowmya.shetty.23ch020@college.edu,9122394554,Female,2006-07-27,Chemical,3,9.73,Chennai,2023
+23CH022,Pranav Naidu,pranav.naidu.23ch022@college.edu,9747145068,Male,2005-12-03,Chemical,3,9.28,Kolkata,2023
+23CH023,Manoj Yadav,manoj.yadav.23ch023@college.edu,9854658900,Male,2006-12-10,Chemical,3,9.06,Warangal,2023
+23CH025,Varun Reddy,varun.reddy.23ch025@college.edu,9187623171,Male,2006-07-17,Chemical,3,6.84,Hyderabad,2023
+23CH029,Divya Kumar,divya.kumar.23ch029@college.edu,9785811060,Female,2004-03-01,Chemical,3,9.49,Delhi,2023
+23CH035,Aarav Iyer,aarav.iyer.23ch035@college.edu,9454190155,Male,2006-04-11,Chemical,3,6.13,Pune,2023
+23CH045,Shruti Kumar,shruti.kumar.23ch045@college.edu,9779573843,Female,2005-12-22,Chemical,3,7.41,Pune,2023
+23CH046,Swathi Iyer,swathi.iyer.23ch046@college.edu,9314533665,Female,2006-10-16,Chemical,3,7.9,Chennai,2023
+23CH051,Pranav Gupta,pranav.gupta.23ch051@college.edu,9713682070,Male,2005-02-09,Chemical,3,6.83,Secunderabad,2023
+23CH058,Vihaan Pillai,vihaan.pillai.23ch058@college.edu,9874471936,Male,2004-03-12,Chemical,3,5.12,Khammam,2023
+23CH065,Bhavana Chowdary,bhavana.chowdary.23ch065@college.edu,9661277051,Female,2005-01-07,Chemical,3,5.52,Karimnagar,2023
+23CH066,Harsha Reddy,harsha.reddy.23ch066@college.edu,9239657875,Male,2004-05-15,Chemical,3,5.79,Mumbai,2023
+23CH073,Arjun Iyer,arjun.iyer.23ch073@college.edu,9535349662,Male,2004-07-21,Chemical,3,7.87,Hyderabad,2023
+23CS005,Manoj Joshi,manoj.joshi.23cs005@college.edu,9367930513,Male,2006-12-16,Computer Science,3,8.27,Nizamabad,2023
+23CS007,Suresh Kumar,suresh.kumar.23cs007@college.edu,9327268503,Male,2005-06-17,Computer Science,3,7.23,Kolkata,2023
+23CS011,Faizan Menon,faizan.menon.23cs011@college.edu,9919382051,Male,2004-01-21,Computer Science,3,8.71,Khammam,2023
+23CS015,Mounika Patel,mounika.patel.23cs015@college.edu,9680051935,Female,2006-03-08,Computer Science,3,6.23,Chennai,2023
+23CS016,Varun Yadav,varun.yadav.23cs016@college.edu,9393421844,Male,2006-04-03,Computer Science,3,8.44,Delhi,2023
+23CS018,Riya Joshi,riya.joshi.23cs018@college.edu,9329987621,Female,2005-04-03,Computer Science,3,6.67,Khammam,2023
+23CS019,Manoj Das,manoj.das.23cs019@college.edu,9547286055,Male,2006-10-20,Computer Science,3,5.92,Warangal,2023
+23CS021,Neha Ahmed,neha.ahmed.23cs021@college.edu,9958287383,Female,2005-03-05,Computer Science,3,6.8,Karimnagar,2023
+23CS022,Aarav Rao,aarav.rao.23cs022@college.edu,9923515952,Male,2004-04-17,Computer Science,3,7.8,Hyderabad,2023
+23CS027,Divya Menon,divya.menon.23cs027@college.edu,9843854609,Female,2004-07-03,Computer Science,3,6.16,Vijayawada,2023
+23CS029,Arjun Chowdary,arjun.chowdary.23cs029@college.edu,9925677464,Male,2005-04-03,Computer Science,3,5.66,Guntur,2023
+23CS030,Bhavana Chowdary,bhavana.chowdary.23cs030@college.edu,9509261668,Female,2004-12-09,Computer Science,3,8.85,Kolkata,2023
+23CS039,Meera Mehta,meera.mehta.23cs039@college.edu,9382824466,Female,2005-08-27,Computer Science,3,6.11,Mumbai,2023
+23CS051,Swathi Menon,swathi.menon.23cs051@college.edu,9643569021,Female,2006-07-28,Computer Science,3,5.52,Warangal,2023
+23EC004,Bhavana Sharma,bhavana.sharma.23ec004@college.edu,9219778234,Female,2004-06-23,Electronics,3,6.44,Chennai,2023
+23EC007,Shruti Iyer,shruti.iyer.23ec007@college.edu,9646970178,Female,2005-11-25,Electronics,3,6.96,Kolkata,2023
+23EC021,Nikhil Goud,nikhil.goud.23ec021@college.edu,9140380477,Male,2005-08-20,Electronics,3,5.28,Delhi,2023
+23EC025,Tarun Mehta,tarun.mehta.23ec025@college.edu,9861863296,Male,2004-06-26,Electronics,3,5.32,Delhi,2023
+23EC027,Riya Nair,riya.nair.23ec027@college.edu,9691461470,Female,2006-11-22,Electronics,3,6.34,Delhi,2023
+23EC028,Ishita Mehta,ishita.mehta.23ec028@college.edu,9251266214,Female,2005-05-07,Electronics,3,5.47,Delhi,2023
+23EC034,Sneha Sharma,sneha.sharma.23ec034@college.edu,9740942859,Female,2004-02-17,Electronics,3,7.93,Kolkata,2023
+23EC051,Naveen Ahmed,naveen.ahmed.23ec051@college.edu,9541189818,Male,2004-06-25,Electronics,3,6.29,Khammam,2023
+23EC052,Vikram Mishra,vikram.mishra.23ec052@college.edu,9153312407,Male,2006-07-17,Electronics,3,5.8,Bengaluru,2023
+23EC055,Manoj Das,manoj.das.23ec055@college.edu,9852399189,Male,2004-11-06,Electronics,3,5.67,Vijayawada,2023
+23EC057,Gautam Mishra,gautam.mishra.23ec057@college.edu,9590432899,Male,2004-04-28,Electronics,3,9.84,Delhi,2023
+23EC062,Nandini Shetty,nandini.shetty.23ec062@college.edu,9654449982,Female,2005-04-25,Electronics,3,6.99,Nizamabad,2023
+23EE009,Faizan Rao,faizan.rao.23ee009@college.edu,9822408848,Male,2006-05-01,Electrical,3,6.52,Bengaluru,2023
+23EE012,Anjali Das,anjali.das.23ee012@college.edu,9399496923,Female,2006-02-14,Electrical,3,9.32,Pune,2023
+23EE013,Lakshmi Verma,lakshmi.verma.23ee013@college.edu,9654724287,Female,2004-01-06,Electrical,3,9.65,Warangal,2023
+23EE015,Diya Gupta,diya.gupta.23ee015@college.edu,9176428684,Female,2004-08-20,Electrical,3,8.37,Mumbai,2023
+23EE016,Priya Verma,priya.verma.23ee016@college.edu,9652543518,Female,2006-07-26,Electrical,3,9.04,Hyderabad,2023
+23EE017,Ravi Agarwal,ravi.agarwal.23ee017@college.edu,9607042130,Male,2005-09-05,Electrical,3,6.19,Visakhapatnam,2023
+23EE024,Harini Verma,harini.verma.23ee024@college.edu,9609241268,Female,2006-12-18,Electrical,3,5.33,Warangal,2023
+23EE030,Pranav Bhat,pranav.bhat.23ee030@college.edu,9870584681,Male,2005-11-05,Electrical,3,7.09,Tirupati,2023
+23EE032,Aisha Yadav,aisha.yadav.23ee032@college.edu,9964027324,Female,2005-05-06,Electrical,3,8.96,Karimnagar,2023
+23EE039,Meera Patel,meera.patel.23ee039@college.edu,9256696327,Female,2005-09-10,Electrical,3,5.31,Guntur,2023
+23EE041,Naveen Naidu,naveen.naidu.23ee041@college.edu,9916048218,Male,2004-01-22,Electrical,3,8.52,Bengaluru,2023
+23EE042,Sowmya Nair,sowmya.nair.23ee042@college.edu,9975293837,Female,2004-12-13,Electrical,3,5.47,Guntur,2023
+23EE044,Riya Mishra,riya.mishra.23ee044@college.edu,9451424185,Female,2005-09-07,Electrical,3,7.85,Warangal,2023
+23EE045,Lakshmi Verma,lakshmi.verma.23ee045@college.edu,9240224505,Female,2004-10-22,Electrical,3,7.77,Khammam,2023
+23EE055,Aisha Verma,aisha.verma.23ee055@college.edu,9799506796,Female,2004-12-30,Electrical,3,6.46,Visakhapatnam,2023
+23EE059,Pranav Joshi,pranav.joshi.23ee059@college.edu,9149153870,Male,2004-02-24,Electrical,3,9.39,Khammam,2023
+23EE060,Varun Pillai,varun.pillai.23ee060@college.edu,9779231134,Male,2004-10-10,Electrical,3,6.06,Bengaluru,2023
+23EE064,Aisha Patel,aisha.patel.23ee064@college.edu,9696001601,Female,2006-10-11,Electrical,3,5.69,Secunderabad,2023
+23EE065,Tarun Goud,tarun.goud.23ee065@college.edu,9712204801,Male,2004-10-05,Electrical,3,5.85,Karimnagar,2023
+23EE068,Arjun Yadav,arjun.yadav.23ee068@college.edu,9342982954,Male,2005-05-22,Electrical,3,7.97,Bengaluru,2023
+23EE069,Shruti Naidu,shruti.naidu.23ee069@college.edu,9504886868,Female,2004-08-14,Electrical,3,7.76,Pune,2023
+23IT003,Keerthi Menon,keerthi.menon.23it003@college.edu,9869005091,Female,2006-12-09,Information Technology,3,6.54,Mumbai,2023
+23IT009,Rahul Khan,rahul.khan.23it009@college.edu,9123557463,Male,2004-05-31,Information Technology,3,9.79,Karimnagar,2023
+23IT017,Kavya Reddy,kavya.reddy.23it017@college.edu,9991617660,Female,2004-03-30,Information Technology,3,8.82,Tirupati,2023
+23IT019,Arjun Gupta,arjun.gupta.23it019@college.edu,9134773472,Male,2005-10-18,Information Technology,3,7.96,Tirupati,2023
+23IT020,Ravi Sharma,ravi.sharma.23it020@college.edu,9239340792,Male,2005-10-10,Information Technology,3,8.0,Warangal,2023
+23IT022,Pranav Agarwal,pranav.agarwal.23it022@college.edu,9916757816,Male,2005-03-08,Information Technology,3,6.82,Vijayawada,2023
+23IT025,Bhavana Verma,bhavana.verma.23it025@college.edu,9306442077,Female,2004-09-04,Information Technology,3,9.69,Mumbai,2023
+23IT029,Bhavana Shetty,bhavana.shetty.23it029@college.edu,9650632566,Female,2005-07-04,Information Technology,3,9.33,Tirupati,2023
+23IT031,Bhavana Shetty,bhavana.shetty.23it031@college.edu,9894133105,Female,2005-11-25,Information Technology,3,7.4,Chennai,2023
+23IT034,Manoj Mehta,manoj.mehta.23it034@college.edu,9193734690,Male,2006-03-09,Information Technology,3,5.92,Tirupati,2023
+23IT036,Vikram Rao,vikram.rao.23it036@college.edu,9813510897,Male,2006-07-10,Information Technology,3,9.43,Chennai,2023
+23IT047,Aarav Goud,aarav.goud.23it047@college.edu,9216076355,Male,2005-12-17,Information Technology,3,7.36,Kolkata,2023
+23IT052,Naveen Menon,naveen.menon.23it052@college.edu,9105188198,Male,2005-03-28,Information Technology,3,6.53,Pune,2023
+23ME003,Faizan Chowdary,faizan.chowdary.23me003@college.edu,9554340903,Male,2004-11-06,Mechanical,3,9.73,Bengaluru,2023
+23ME005,Aarav Verma,aarav.verma.23me005@college.edu,9692362342,Male,2006-08-15,Mechanical,3,8.46,Hyderabad,2023
+23ME008,Rohan Iyer,rohan.iyer.23me008@college.edu,9740563507,Male,2006-02-25,Mechanical,3,7.13,Kolkata,2023
+23ME009,Vikram Yadav,vikram.yadav.23me009@college.edu,9620455331,Male,2005-12-24,Mechanical,3,5.59,Pune,2023
+23ME020,Naveen Bhat,naveen.bhat.23me020@college.edu,9849987147,Male,2005-12-02,Mechanical,3,8.24,Visakhapatnam,2023
+23ME028,Meera Agarwal,meera.agarwal.23me028@college.edu,9230311939,Female,2004-04-24,Mechanical,3,9.83,Visakhapatnam,2023
+23ME033,Suresh Naidu,suresh.naidu.23me033@college.edu,9456715514,Male,2006-07-22,Mechanical,3,9.12,Karimnagar,2023
+23ME034,Rohan Mishra,rohan.mishra.23me034@college.edu,9588909690,Male,2005-06-25,Mechanical,3,8.84,Khammam,2023
+23ME035,Neha Mehta,neha.mehta.23me035@college.edu,9191001735,Female,2004-10-29,Mechanical,3,8.29,Kolkata,2023
+23ME043,Aarav Singh,aarav.singh.23me043@college.edu,9224026766,Male,2006-08-31,Mechanical,3,6.51,Karimnagar,2023
+23ME046,Shruti Shetty,shruti.shetty.23me046@college.edu,9105061082,Female,2004-01-30,Mechanical,3,7.22,Bengaluru,2023
+23ME057,Lakshmi Joshi,lakshmi.joshi.23me057@college.edu,9578199481,Female,2005-08-25,Mechanical,3,6.76,Delhi,2023
+23ME059,Karthik Kumar,karthik.kumar.23me059@college.edu,9809861078,Male,2004-03-01,Mechanical,3,6.13,Kolkata,2023
+24BT002,Aditya Singh,aditya.singh.24bt002@college.edu,9399085574,Male,2006-04-04,Biotechnology,2,7.27,Warangal,2024
+24BT003,Harini Agarwal,harini.agarwal.24bt003@college.edu,9333754555,Female,2007-06-01,Biotechnology,2,9.75,Secunderabad,2024
+24BT004,Diya Reddy,diya.reddy.24bt004@college.edu,9186019028,Female,2007-09-18,Biotechnology,2,9.17,Warangal,2024
+24BT007,Mounika Ahmed,mounika.ahmed.24bt007@college.edu,9183197117,Female,2006-08-14,Biotechnology,2,8.5,Pune,2024
+24BT008,Gautam Das,gautam.das.24bt008@college.edu,9793532952,Male,2005-09-01,Biotechnology,2,8.49,Tirupati,2024
+24BT018,Aisha Chowdary,aisha.chowdary.24bt018@college.edu,9406462391,Female,2006-06-14,Biotechnology,2,8.16,Warangal,2024
+24BT019,Anjali Shetty,anjali.shetty.24bt019@college.edu,9392956587,Female,2005-08-28,Biotechnology,2,5.94,Vijayawada,2024
+24BT021,Sowmya Yadav,sowmya.yadav.24bt021@college.edu,9910395417,Female,2007-12-15,Biotechnology,2,7.92,Warangal,2024
+24BT024,Meera Patel,meera.patel.24bt024@college.edu,9163063063,Female,2005-11-25,Biotechnology,2,7.57,Warangal,2024
+24BT028,Neha Khan,neha.khan.24bt028@college.edu,9618371508,Female,2006-01-13,Biotechnology,2,5.51,Guntur,2024
+24BT030,Bhavana Das,bhavana.das.24bt030@college.edu,9298053584,Female,2006-11-19,Biotechnology,2,5.91,Guntur,2024
+24BT032,Sowmya Mehta,sowmya.mehta.24bt032@college.edu,9133136428,Female,2007-10-17,Biotechnology,2,8.9,Pune,2024
+24BT034,Tanvi Bhat,tanvi.bhat.24bt034@college.edu,9250337960,Female,2007-02-21,Biotechnology,2,8.69,Karimnagar,2024
+24BT036,Suresh Joshi,suresh.joshi.24bt036@college.edu,9916561565,Male,2005-10-07,Biotechnology,2,8.9,Visakhapatnam,2024
+24BT044,Manoj Naidu,manoj.naidu.24bt044@college.edu,9878663220,Male,2005-05-13,Biotechnology,2,8.96,Chennai,2024
+24BT053,Kavya Iyer,kavya.iyer.24bt053@college.edu,9742411514,Female,2007-05-26,Biotechnology,2,9.3,Guntur,2024
+24CE001,Ajay Mishra,ajay.mishra.24ce001@college.edu,9389854268,Male,2006-07-14,Civil,2,9.85,Pune,2024
+24CE003,Ananya Menon,ananya.menon.24ce003@college.edu,9860038427,Female,2007-02-06,Civil,2,8.09,Pune,2024
+24CE007,Sana Khan,sana.khan.24ce007@college.edu,9105953697,Female,2005-12-19,Civil,2,9.37,Vijayawada,2024
+24CE011,Varun Naidu,varun.naidu.24ce011@college.edu,9176675731,Male,2006-03-14,Civil,2,5.29,Delhi,2024
+24CE013,Anjali Verma,anjali.verma.24ce013@college.edu,9350785761,Female,2005-07-16,Civil,2,9.19,Guntur,2024
+24CE023,Tanvi Das,tanvi.das.24ce023@college.edu,9874305759,Female,2006-10-23,Civil,2,6.53,Chennai,2024
+24CE026,Rohan Pillai,rohan.pillai.24ce026@college.edu,9670201461,Male,2007-12-09,Civil,2,6.11,Pune,2024
+24CE027,Tanvi Gupta,tanvi.gupta.24ce027@college.edu,9588529624,Female,2006-03-20,Civil,2,8.66,Nizamabad,2024
+24CE032,Pranav Sharma,pranav.sharma.24ce032@college.edu,9182611003,Male,2005-07-23,Civil,2,6.47,Pune,2024
+24CE038,Sneha Ahmed,sneha.ahmed.24ce038@college.edu,9839951555,Female,2005-10-29,Civil,2,6.72,Guntur,2024
+24CE039,Deepak Patel,deepak.patel.24ce039@college.edu,9476685251,Male,2007-10-19,Civil,2,7.61,Chennai,2024
+24CE040,Faizan Nair,faizan.nair.24ce040@college.edu,9417335858,Male,2005-07-20,Civil,2,8.17,Pune,2024
+24CE048,Sai Naidu,sai.naidu.24ce048@college.edu,9976479512,Male,2006-10-01,Civil,2,8.88,Secunderabad,2024
+24CE049,Pranav Pillai,pranav.pillai.24ce049@college.edu,9961596686,Male,2006-04-01,Civil,2,9.14,Kolkata,2024
+24CE050,Sneha Chowdary,sneha.chowdary.24ce050@college.edu,9958128631,Female,2006-02-07,Civil,2,9.14,Delhi,2024
+24CE068,Riya Sharma,riya.sharma.24ce068@college.edu,9579125557,Female,2005-03-13,Civil,2,5.78,Visakhapatnam,2024
+24CE071,Pooja Reddy,pooja.reddy.24ce071@college.edu,9486267885,Female,2005-01-19,Civil,2,6.17,Hyderabad,2024
+24CH002,Ishita Chowdary,ishita.chowdary.24ch002@college.edu,9807577342,Female,2007-02-19,Chemical,2,7.11,Guntur,2024
+24CH004,Varun Bhat,varun.bhat.24ch004@college.edu,9423142470,Male,2005-10-19,Chemical,2,6.99,Hyderabad,2024
+24CH011,Ajay Ahmed,ajay.ahmed.24ch011@college.edu,9583736219,Male,2005-07-14,Chemical,2,9.45,Delhi,2024
+24CH031,Sneha Kumar,sneha.kumar.24ch031@college.edu,9996382881,Female,2005-04-25,Chemical,2,5.02,Hyderabad,2024
+24CH036,Mohit Sharma,mohit.sharma.24ch036@college.edu,9172980019,Male,2005-04-29,Chemical,2,8.47,Hyderabad,2024
+24CH038,Kiran Agarwal,kiran.agarwal.24ch038@college.edu,9663054538,Male,2007-02-19,Chemical,2,5.73,Bengaluru,2024
+24CH040,Diya Naidu,diya.naidu.24ch040@college.edu,9749794986,Female,2007-06-24,Chemical,2,8.77,Karimnagar,2024
+24CH042,Vikram Patel,vikram.patel.24ch042@college.edu,9440030663,Male,2005-07-19,Chemical,2,6.77,Warangal,2024
+24CH044,Anjali Verma,anjali.verma.24ch044@college.edu,9747693166,Female,2006-06-14,Chemical,2,9.64,Bengaluru,2024
+24CH048,Naveen Khan,naveen.khan.24ch048@college.edu,9677006598,Male,2006-11-22,Chemical,2,8.4,Chennai,2024
+24CH053,Harsha Bhat,harsha.bhat.24ch053@college.edu,9300951978,Male,2006-04-20,Chemical,2,6.35,Tirupati,2024
+24CH054,Swathi Patel,swathi.patel.24ch054@college.edu,9367520363,Female,2005-09-27,Chemical,2,8.09,Hyderabad,2024
+24CH071,Tarun Goud,tarun.goud.24ch071@college.edu,9476365632,Male,2006-07-15,Chemical,2,7.89,Vijayawada,2024
+24CH072,Tanvi Iyer,tanvi.iyer.24ch072@college.edu,9941586401,Female,2006-10-10,Chemical,2,7.73,Chennai,2024
+24CS001,Tarun Rao,tarun.rao.24cs001@college.edu,9349957310,Male,2006-02-10,Computer Science,2,9.25,Karimnagar,2024
+24CS002,Mounika Ahmed,mounika.ahmed.24cs002@college.edu,9530747414,Female,2007-06-11,Computer Science,2,6.31,Bengaluru,2024
+24CS008,Sana Rao,sana.rao.24cs008@college.edu,9426240903,Female,2007-10-16,Computer Science,2,5.42,Pune,2024
+24CS023,Anjali Rao,anjali.rao.24cs023@college.edu,9619960692,Female,2006-08-01,Computer Science,2,7.28,Kolkata,2024
+24CS024,Diya Khan,diya.khan.24cs024@college.edu,9409883716,Female,2006-10-11,Computer Science,2,5.36,Tirupati,2024
+24CS026,Ajay Mishra,ajay.mishra.24cs026@college.edu,9139019611,Male,2006-04-01,Computer Science,2,9.89,Karimnagar,2024
+24CS028,Harsha Iyer,harsha.iyer.24cs028@college.edu,9148629555,Male,2005-02-07,Computer Science,2,7.08,Warangal,2024
+24CS033,Kiran Menon,kiran.menon.24cs033@college.edu,9875705487,Male,2006-06-29,Computer Science,2,6.04,Visakhapatnam,2024
+24CS035,Rohan Sharma,rohan.sharma.24cs035@college.edu,9984412594,Male,2007-04-12,Computer Science,2,6.96,Warangal,2024
+24CS036,Vihaan Mehta,vihaan.mehta.24cs036@college.edu,9982277976,Male,2005-08-10,Computer Science,2,8.55,Khammam,2024
+24CS040,Kavya Ahmed,kavya.ahmed.24cs040@college.edu,9998696871,Female,2007-04-13,Computer Science,2,5.28,Secunderabad,2024
+24CS043,Pranav Iyer,pranav.iyer.24cs043@college.edu,9506559022,Male,2005-11-26,Computer Science,2,6.98,Pune,2024
+24CS044,Vihaan Bhat,vihaan.bhat.24cs044@college.edu,9407751103,Male,2006-03-24,Computer Science,2,8.35,Visakhapatnam,2024
+24CS048,Sana Pillai,sana.pillai.24cs048@college.edu,9346950710,Female,2006-03-26,Computer Science,2,5.38,Mumbai,2024
+24CS050,Bhavana Pillai,bhavana.pillai.24cs050@college.edu,9105680775,Female,2006-11-22,Computer Science,2,8.94,Visakhapatnam,2024
+24EC001,Diya Sharma,diya.sharma.24ec001@college.edu,9746412689,Female,2007-09-16,Electronics,2,5.13,Bengaluru,2024
+24EC005,Vihaan Verma,vihaan.verma.24ec005@college.edu,9621209849,Male,2006-12-09,Electronics,2,6.05,Visakhapatnam,2024
+24EC006,Vikram Naidu,vikram.naidu.24ec006@college.edu,9749431082,Male,2006-05-25,Electronics,2,6.03,Kolkata,2024
+24EC009,Shruti Verma,shruti.verma.24ec009@college.edu,9511281012,Female,2007-04-29,Electronics,2,8.4,Bengaluru,2024
+24EC011,Karthik Chowdary,karthik.chowdary.24ec011@college.edu,9375139575,Male,2006-12-25,Electronics,2,8.76,Chennai,2024
+24EC012,Sowmya Singh,sowmya.singh.24ec012@college.edu,9929445037,Female,2007-12-23,Electronics,2,6.48,Vijayawada,2024
+24EC013,Rahul Kumar,rahul.kumar.24ec013@college.edu,9583724666,Male,2007-07-29,Electronics,2,8.38,Khammam,2024
+24EC014,Aisha Joshi,aisha.joshi.24ec014@college.edu,9765233376,Female,2006-01-13,Electronics,2,9.33,Kolkata,2024
+24EC015,Sana Naidu,sana.naidu.24ec015@college.edu,9517305280,Female,2005-03-11,Electronics,2,7.22,Guntur,2024
+24EC017,Tanvi Patel,tanvi.patel.24ec017@college.edu,9779760958,Female,2006-11-16,Electronics,2,7.87,Kolkata,2024
+24EC020,Mohit Ahmed,mohit.ahmed.24ec020@college.edu,9598165815,Male,2005-09-10,Electronics,2,8.7,Tirupati,2024
+24EC022,Sneha Verma,sneha.verma.24ec022@college.edu,9859803019,Female,2007-05-07,Electronics,2,7.15,Tirupati,2024
+24EC024,Neha Mehta,neha.mehta.24ec024@college.edu,9527385805,Female,2005-07-07,Electronics,2,6.54,Mumbai,2024
+24EC026,Riya Reddy,riya.reddy.24ec026@college.edu,9273910700,Female,2006-03-26,Electronics,2,6.58,Pune,2024
+24EC030,Tanvi Bhat,tanvi.bhat.24ec030@college.edu,9500718660,Female,2007-07-21,Electronics,2,8.89,Kolkata,2024
+24EC036,Pranav Shetty,pranav.shetty.24ec036@college.edu,9654044237,Male,2005-05-05,Electronics,2,5.85,Chennai,2024
+24EC038,Rahul Nair,rahul.nair.24ec038@college.edu,9251782582,Male,2006-12-22,Electronics,2,7.5,Guntur,2024
+24EC040,Priya Nair,priya.nair.24ec040@college.edu,9450845460,Female,2007-10-02,Electronics,2,6.91,Warangal,2024
+24EC041,Naveen Bhat,naveen.bhat.24ec041@college.edu,9102757916,Male,2005-09-18,Electronics,2,5.22,Hyderabad,2024
+24EC043,Pallavi Rao,pallavi.rao.24ec043@college.edu,9180348617,Female,2005-07-21,Electronics,2,7.9,Secunderabad,2024
+24EC044,Pranav Patel,pranav.patel.24ec044@college.edu,9651323128,Male,2006-07-22,Electronics,2,5.24,Delhi,2024
+24EC045,Priya Sharma,priya.sharma.24ec045@college.edu,9968977829,Female,2005-08-16,Electronics,2,5.63,Kolkata,2024
+24EC058,Anjali Reddy,anjali.reddy.24ec058@college.edu,9486777550,Female,2007-05-29,Electronics,2,8.93,Kolkata,2024
+24EC061,Vikram Yadav,vikram.yadav.24ec061@college.edu,9516646839,Male,2006-07-28,Electronics,2,7.21,Karimnagar,2024
+24EE001,Aarav Mishra,aarav.mishra.24ee001@college.edu,9890779946,Male,2007-03-13,Electrical,2,5.5,Warangal,2024
+24EE003,Ananya Mishra,ananya.mishra.24ee003@college.edu,9771410971,Female,2005-02-24,Electrical,2,6.46,Bengaluru,2024
+24EE005,Ajay Singh,ajay.singh.24ee005@college.edu,9362298393,Male,2006-02-05,Electrical,2,6.81,Chennai,2024
+24EE014,Diya Reddy,diya.reddy.24ee014@college.edu,9210152642,Female,2005-09-09,Electrical,2,9.28,Delhi,2024
+24EE019,Imran Bhat,imran.bhat.24ee019@college.edu,9565973314,Male,2005-02-16,Electrical,2,9.79,Vijayawada,2024
+24EE021,Ajay Joshi,ajay.joshi.24ee021@college.edu,9965960427,Male,2006-09-04,Electrical,2,6.45,Kolkata,2024
+24EE026,Aarav Singh,aarav.singh.24ee026@college.edu,9410791488,Male,2007-05-11,Electrical,2,6.61,Hyderabad,2024
+24EE033,Ishita Nair,ishita.nair.24ee033@college.edu,9625063062,Female,2005-12-27,Electrical,2,6.55,Nizamabad,2024
+24EE040,Kavya Shetty,kavya.shetty.24ee040@college.edu,9265510032,Female,2006-12-04,Electrical,2,8.5,Karimnagar,2024
+24EE046,Harsha Shetty,harsha.shetty.24ee046@college.edu,9197924383,Male,2006-12-02,Electrical,2,8.45,Hyderabad,2024
+24EE047,Pranav Joshi,pranav.joshi.24ee047@college.edu,9788887139,Male,2006-03-10,Electrical,2,9.87,Visakhapatnam,2024
+24EE048,Neha Goud,neha.goud.24ee048@college.edu,9905066256,Female,2006-03-06,Electrical,2,8.83,Mumbai,2024
+24EE051,Anjali Sharma,anjali.sharma.24ee051@college.edu,9172794091,Female,2007-12-21,Electrical,2,6.72,Vijayawada,2024
+24EE057,Sowmya Das,sowmya.das.24ee057@college.edu,9632956813,Female,2007-10-08,Electrical,2,9.46,Khammam,2024
+24EE062,Aarav Mishra,aarav.mishra.24ee062@college.edu,9991187981,Male,2005-08-15,Electrical,2,6.11,Nizamabad,2024
+24EE066,Deepak Bhat,deepak.bhat.24ee066@college.edu,9467940478,Male,2005-12-18,Electrical,2,9.52,Warangal,2024
+24IT001,Anjali Shetty,anjali.shetty.24it001@college.edu,9324956459,Female,2006-07-01,Information Technology,2,8.28,Warangal,2024
+24IT007,Sana Mehta,sana.mehta.24it007@college.edu,9612957813,Female,2007-05-10,Information Technology,2,5.56,Warangal,2024
+24IT010,Varun Naidu,varun.naidu.24it010@college.edu,9729712082,Male,2005-01-31,Information Technology,2,9.69,Kolkata,2024
+24IT011,Divya Mishra,divya.mishra.24it011@college.edu,9182011731,Female,2006-03-28,Information Technology,2,7.5,Vijayawada,2024
+24IT012,Mohit Joshi,mohit.joshi.24it012@college.edu,9257243284,Male,2007-02-22,Information Technology,2,6.25,Chennai,2024
+24IT013,Diya Das,diya.das.24it013@college.edu,9405939035,Female,2006-11-09,Information Technology,2,8.69,Tirupati,2024
+24IT015,Sneha Agarwal,sneha.agarwal.24it015@college.edu,9408034406,Female,2007-01-20,Information Technology,2,9.5,Khammam,2024
+24IT021,Suresh Mehta,suresh.mehta.24it021@college.edu,9731130400,Male,2005-11-24,Information Technology,2,5.89,Visakhapatnam,2024
+24IT027,Karthik Chowdary,karthik.chowdary.24it027@college.edu,9511859868,Male,2007-05-14,Information Technology,2,6.15,Mumbai,2024
+24IT030,Gautam Chowdary,gautam.chowdary.24it030@college.edu,9544454140,Male,2006-06-10,Information Technology,2,5.22,Pune,2024
+24IT040,Naveen Khan,naveen.khan.24it040@college.edu,9736212983,Male,2007-05-02,Information Technology,2,6.56,Nizamabad,2024
+24IT041,Tarun Agarwal,tarun.agarwal.24it041@college.edu,9998396384,Male,2005-04-07,Information Technology,2,9.84,Khammam,2024
+24IT042,Pranav Nair,pranav.nair.24it042@college.edu,9950234433,Male,2007-08-12,Information Technology,2,8.13,Khammam,2024
+24IT043,Meera Agarwal,meera.agarwal.24it043@college.edu,9974513582,Female,2005-10-29,Information Technology,2,5.86,Delhi,2024
+24IT045,Vihaan Naidu,vihaan.naidu.24it045@college.edu,9848609261,Male,2007-07-29,Information Technology,2,7.72,Mumbai,2024
+24ME007,Tanvi Mishra,tanvi.mishra.24me007@college.edu,9542697755,Female,2007-04-01,Mechanical,2,5.12,Kolkata,2024
+24ME014,Suresh Rao,suresh.rao.24me014@college.edu,9526717340,Male,2005-12-12,Mechanical,2,9.74,Nizamabad,2024
+24ME015,Pranav Gupta,pranav.gupta.24me015@college.edu,9322433532,Male,2007-10-11,Mechanical,2,7.87,Pune,2024
+24ME017,Neha Sharma,neha.sharma.24me017@college.edu,9530338918,Female,2005-12-03,Mechanical,2,5.34,Hyderabad,2024
+24ME018,Pallavi Das,pallavi.das.24me018@college.edu,9855561271,Female,2006-09-30,Mechanical,2,6.13,Nizamabad,2024
+24ME029,Kiran Shetty,kiran.shetty.24me029@college.edu,9770529419,Male,2007-12-04,Mechanical,2,8.53,Kolkata,2024
+24ME030,Riya Mehta,riya.mehta.24me030@college.edu,9442019016,Female,2006-11-10,Mechanical,2,5.8,Delhi,2024
+24ME036,Ravi Nair,ravi.nair.24me036@college.edu,9765086407,Male,2006-08-19,Mechanical,2,5.26,Nizamabad,2024
+24ME037,Vikram Shetty,vikram.shetty.24me037@college.edu,9863854401,Male,2007-03-16,Mechanical,2,6.58,Pune,2024
+24ME038,Ravi Rao,ravi.rao.24me038@college.edu,9577886922,Male,2005-12-15,Mechanical,2,5.05,Kolkata,2024
+24ME040,Harini Verma,harini.verma.24me040@college.edu,9190461372,Female,2006-11-27,Mechanical,2,6.22,Delhi,2024
+24ME052,Riya Ahmed,riya.ahmed.24me052@college.edu,9211190223,Female,2005-03-07,Mechanical,2,6.9,Kolkata,2024
+24ME053,Keerthi Joshi,keerthi.joshi.24me053@college.edu,9845511804,Female,2005-10-05,Mechanical,2,8.12,Vijayawada,2024
+24ME056,Varun Shetty,varun.shetty.24me056@college.edu,9762375136,Male,2007-04-24,Mechanical,2,9.09,Bengaluru,2024
+24ME060,Rahul Reddy,rahul.reddy.24me060@college.edu,9650446037,Male,2007-11-19,Mechanical,2,5.19,Visakhapatnam,2024
+25BT006,Ishita Kumar,ishita.kumar.25bt006@college.edu,9230307805,Female,2006-05-08,Biotechnology,1,7.24,Tirupati,2025
+25BT014,Aisha Pillai,aisha.pillai.25bt014@college.edu,9740743666,Female,2008-09-12,Biotechnology,1,7.63,Pune,2025
+25BT022,Sai Verma,sai.verma.25bt022@college.edu,9869784803,Male,2006-04-16,Biotechnology,1,7.86,Warangal,2025
+25BT023,Sowmya Patel,sowmya.patel.25bt023@college.edu,9547221915,Female,2006-07-31,Biotechnology,1,7.73,Visakhapatnam,2025
+25BT026,Harini Nair,harini.nair.25bt026@college.edu,9364774064,Female,2007-05-09,Biotechnology,1,8.53,Khammam,2025
+25BT033,Sai Mehta,sai.mehta.25bt033@college.edu,9839369897,Male,2007-04-14,Biotechnology,1,9.46,Delhi,2025
+25BT035,Priya Yadav,priya.yadav.25bt035@college.edu,9413097844,Female,2007-04-13,Biotechnology,1,7.76,Delhi,2025
+25BT040,Pranav Pillai,pranav.pillai.25bt040@college.edu,9277164387,Male,2007-12-01,Biotechnology,1,7.98,Guntur,2025
+25BT047,Suresh Mehta,suresh.mehta.25bt047@college.edu,9439368482,Male,2007-08-17,Biotechnology,1,5.58,Khammam,2025
+25BT055,Mounika Mehta,mounika.mehta.25bt055@college.edu,9376831869,Female,2007-03-01,Biotechnology,1,5.33,Pune,2025
+25CE002,Ishita Reddy,ishita.reddy.25ce002@college.edu,9976198296,Female,2008-09-05,Civil,1,5.34,Visakhapatnam,2025
+25CE009,Divya Iyer,divya.iyer.25ce009@college.edu,9438817025,Female,2006-04-09,Civil,1,5.59,Chennai,2025
+25CE017,Harsha Iyer,harsha.iyer.25ce017@college.edu,9811642514,Male,2007-02-16,Civil,1,6.04,Hyderabad,2025
+25CE018,Suresh Goud,suresh.goud.25ce018@college.edu,9659903980,Male,2006-12-04,Civil,1,6.48,Hyderabad,2025
+25CE020,Faizan Chowdary,faizan.chowdary.25ce020@college.edu,9494665673,Male,2007-10-12,Civil,1,5.56,Mumbai,2025
+25CE042,Sowmya Das,sowmya.das.25ce042@college.edu,9566523205,Female,2008-02-14,Civil,1,5.57,Secunderabad,2025
+25CE045,Anjali Iyer,anjali.iyer.25ce045@college.edu,9937450959,Female,2008-03-10,Civil,1,8.77,Vijayawada,2025
+25CE047,Aarav Verma,aarav.verma.25ce047@college.edu,9968285490,Male,2007-01-30,Civil,1,9.86,Nizamabad,2025
+25CE051,Harsha Verma,harsha.verma.25ce051@college.edu,9388390253,Male,2006-09-01,Civil,1,9.4,Hyderabad,2025
+25CE056,Mounika Goud,mounika.goud.25ce056@college.edu,9772899961,Female,2006-01-03,Civil,1,8.59,Pune,2025
+25CE060,Tarun Nair,tarun.nair.25ce060@college.edu,9210037068,Male,2007-08-20,Civil,1,8.02,Pune,2025
+25CE063,Ishita Shetty,ishita.shetty.25ce063@college.edu,9509495719,Female,2006-06-14,Civil,1,9.49,Vijayawada,2025
+25CH003,Faizan Gupta,faizan.gupta.25ch003@college.edu,9721609600,Male,2006-05-07,Chemical,1,7.91,Warangal,2025
+25CH016,Diya Patel,diya.patel.25ch016@college.edu,9611365210,Female,2006-02-02,Chemical,1,7.2,Nizamabad,2025
+25CH017,Ravi Khan,ravi.khan.25ch017@college.edu,9576271425,Male,2007-12-31,Chemical,1,5.36,Warangal,2025
+25CH018,Varun Joshi,varun.joshi.25ch018@college.edu,9435489452,Male,2007-11-04,Chemical,1,6.72,Bengaluru,2025
+25CH026,Ajay Mishra,ajay.mishra.25ch026@college.edu,9423358638,Male,2007-05-02,Chemical,1,5.6,Pune,2025
+25CH034,Vihaan Iyer,vihaan.iyer.25ch034@college.edu,9963987020,Male,2008-04-06,Chemical,1,8.73,Bengaluru,2025
+25CH037,Ananya Sharma,ananya.sharma.25ch037@college.edu,9875448533,Female,2008-09-28,Chemical,1,6.35,Delhi,2025
+25CH039,Neha Iyer,neha.iyer.25ch039@college.edu,9592845076,Female,2007-07-27,Chemical,1,7.77,Pune,2025
+25CH041,Meera Bhat,meera.bhat.25ch041@college.edu,9956905222,Female,2006-06-01,Chemical,1,6.21,Warangal,2025
+25CH047,Mounika Verma,mounika.verma.25ch047@college.edu,9377818215,Female,2008-02-20,Chemical,1,6.09,Pune,2025
+25CH055,Nikhil Sharma,nikhil.sharma.25ch055@college.edu,9771186296,Male,2007-12-05,Chemical,1,7.94,Bengaluru,2025
+25CH057,Ananya Agarwal,ananya.agarwal.25ch057@college.edu,9259128258,Female,2007-03-18,Chemical,1,7.78,Vijayawada,2025
+25CH061,Harini Chowdary,harini.chowdary.25ch061@college.edu,9314119421,Female,2008-09-30,Chemical,1,8.58,Hyderabad,2025
+25CH062,Varun Mehta,varun.mehta.25ch062@college.edu,9609379184,Male,2006-05-10,Chemical,1,8.44,Bengaluru,2025
+25CH063,Rohan Khan,rohan.khan.25ch063@college.edu,9100182231,Male,2006-10-09,Chemical,1,9.05,Delhi,2025
+25CH064,Tarun Mishra,tarun.mishra.25ch064@college.edu,9310369078,Male,2007-11-09,Chemical,1,5.92,Karimnagar,2025
+25CH068,Shruti Sharma,shruti.sharma.25ch068@college.edu,9788722430,Female,2006-01-04,Chemical,1,8.53,Warangal,2025
+25CH069,Naveen Pillai,naveen.pillai.25ch069@college.edu,9903477338,Male,2007-04-18,Chemical,1,8.63,Nizamabad,2025
+25CS003,Anjali Mishra,anjali.mishra.25cs003@college.edu,9881913386,Female,2008-07-25,Computer Science,1,6.66,Vijayawada,2025
+25CS004,Bhavana Naidu,bhavana.naidu.25cs004@college.edu,9278575192,Female,2008-05-01,Computer Science,1,6.99,Khammam,2025
+25CS009,Divya Menon,divya.menon.25cs009@college.edu,9326586581,Female,2008-11-16,Computer Science,1,6.3,Warangal,2025
+25CS031,Keerthi Rao,keerthi.rao.25cs031@college.edu,9504982743,Female,2007-07-14,Computer Science,1,7.71,Secunderabad,2025
+25CS032,Keerthi Ahmed,keerthi.ahmed.25cs032@college.edu,9941695219,Female,2008-11-16,Computer Science,1,9.1,Hyderabad,2025
+25CS037,Meera Chowdary,meera.chowdary.25cs037@college.edu,9746030501,Female,2008-04-29,Computer Science,1,6.07,Khammam,2025
+25CS041,Mounika Yadav,mounika.yadav.25cs041@college.edu,9801762883,Female,2006-02-25,Computer Science,1,9.1,Secunderabad,2025
+25CS042,Ishita Sharma,ishita.sharma.25cs042@college.edu,9818356830,Female,2008-10-20,Computer Science,1,7.42,Warangal,2025
+25CS049,Pooja Sharma,pooja.sharma.25cs049@college.edu,9502685267,Female,2006-01-04,Computer Science,1,8.21,Kolkata,2025
+25EC002,Mohit Verma,mohit.verma.25ec002@college.edu,9485451171,Male,2007-02-19,Electronics,1,9.15,Mumbai,2025
+25EC010,Ishita Shetty,ishita.shetty.25ec010@college.edu,9314061901,Female,2008-05-06,Electronics,1,9.11,Visakhapatnam,2025
+25EC018,Mounika Menon,mounika.menon.25ec018@college.edu,9910069356,Female,2008-03-21,Electronics,1,8.03,Warangal,2025
+25EC031,Gautam Ahmed,gautam.ahmed.25ec031@college.edu,9760268760,Male,2006-08-03,Electronics,1,8.75,Hyderabad,2025
+25EC032,Aditya Rao,aditya.rao.25ec032@college.edu,9821579885,Male,2007-11-03,Electronics,1,8.45,Secunderabad,2025
+25EC035,Sowmya Yadav,sowmya.yadav.25ec035@college.edu,9813709631,Female,2008-12-02,Electronics,1,6.74,Secunderabad,2025
+25EC037,Vikram Ahmed,vikram.ahmed.25ec037@college.edu,9492767278,Male,2006-04-06,Electronics,1,6.6,Tirupati,2025
+25EC039,Aarav Menon,aarav.menon.25ec039@college.edu,9142763764,Male,2007-04-21,Electronics,1,9.52,Karimnagar,2025
+25EC042,Tarun Iyer,tarun.iyer.25ec042@college.edu,9543516366,Male,2008-09-23,Electronics,1,8.43,Nizamabad,2025
+25EC046,Pranav Iyer,pranav.iyer.25ec046@college.edu,9503144836,Male,2007-03-29,Electronics,1,5.79,Warangal,2025
+25EC047,Divya Gupta,divya.gupta.25ec047@college.edu,9690195758,Female,2007-10-20,Electronics,1,9.12,Visakhapatnam,2025
+25EC048,Karthik Ahmed,karthik.ahmed.25ec048@college.edu,9967776836,Male,2006-06-26,Electronics,1,7.65,Pune,2025
+25EC059,Pallavi Naidu,pallavi.naidu.25ec059@college.edu,9812272035,Female,2008-03-11,Electronics,1,8.17,Kolkata,2025
+25EC063,Tanvi Das,tanvi.das.25ec063@college.edu,9498181191,Female,2007-04-24,Electronics,1,5.39,Secunderabad,2025
+25EE002,Ishita Mehta,ishita.mehta.25ee002@college.edu,9553778756,Female,2008-12-23,Electrical,1,6.67,Visakhapatnam,2025
+25EE006,Bhavana Agarwal,bhavana.agarwal.25ee006@college.edu,9421455482,Female,2006-10-11,Electrical,1,9.57,Vijayawada,2025
+25EE011,Mohit Kumar,mohit.kumar.25ee011@college.edu,9434961542,Male,2006-01-14,Electrical,1,7.82,Karimnagar,2025
+25EE020,Meera Agarwal,meera.agarwal.25ee020@college.edu,9954852540,Female,2008-06-15,Electrical,1,5.27,Nizamabad,2025
+25EE022,Harsha Sharma,harsha.sharma.25ee022@college.edu,9822443971,Male,2007-07-08,Electrical,1,8.67,Mumbai,2025
+25EE035,Meera Mishra,meera.mishra.25ee035@college.edu,9709844411,Female,2008-06-01,Electrical,1,7.95,Kolkata,2025
+25EE037,Pooja Verma,pooja.verma.25ee037@college.edu,9896152940,Female,2008-04-07,Electrical,1,5.57,Khammam,2025
+25EE049,Pallavi Mishra,pallavi.mishra.25ee049@college.edu,9355730504,Female,2008-09-28,Electrical,1,7.06,Secunderabad,2025
+25EE050,Divya Mehta,divya.mehta.25ee050@college.edu,9967150570,Female,2008-03-21,Electrical,1,8.36,Secunderabad,2025
+25EE052,Sana Bhat,sana.bhat.25ee052@college.edu,9516104074,Female,2006-10-06,Electrical,1,5.91,Karimnagar,2025
+25EE058,Anjali Pillai,anjali.pillai.25ee058@college.edu,9296354549,Female,2007-06-25,Electrical,1,5.56,Karimnagar,2025
+25EE061,Ishita Goud,ishita.goud.25ee061@college.edu,9547284589,Female,2007-07-18,Electrical,1,9.69,Kolkata,2025
+25EE063,Lakshmi Yadav,lakshmi.yadav.25ee063@college.edu,9652235149,Female,2006-07-11,Electrical,1,8.93,Tirupati,2025
+25EE067,Swathi Pillai,swathi.pillai.25ee067@college.edu,9630824004,Female,2008-11-23,Electrical,1,7.15,Bengaluru,2025
+25IT008,Diya Patel,diya.patel.25it008@college.edu,9664735673,Female,2007-02-21,Information Technology,1,9.46,Hyderabad,2025
+25IT014,Imran Chowdary,imran.chowdary.25it014@college.edu,9233871736,Male,2006-09-22,Information Technology,1,6.4,Chennai,2025
+25IT016,Pallavi Sharma,pallavi.sharma.25it016@college.edu,9886989426,Female,2007-05-04,Information Technology,1,8.22,Vijayawada,2025
+25IT023,Aditya Menon,aditya.menon.25it023@college.edu,9631388604,Male,2008-05-24,Information Technology,1,7.93,Khammam,2025
+25IT028,Riya Agarwal,riya.agarwal.25it028@college.edu,9166312199,Female,2006-02-27,Information Technology,1,9.06,Bengaluru,2025
+25IT032,Kiran Mehta,kiran.mehta.25it032@college.edu,9815922437,Male,2006-11-23,Information Technology,1,9.58,Khammam,2025
+25IT035,Aisha Bhat,aisha.bhat.25it035@college.edu,9333893106,Female,2006-07-23,Information Technology,1,9.74,Bengaluru,2025
+25IT038,Anjali Goud,anjali.goud.25it038@college.edu,9279187532,Female,2007-10-18,Information Technology,1,6.8,Mumbai,2025
+25IT044,Ravi Patel,ravi.patel.25it044@college.edu,9443080569,Male,2008-06-26,Information Technology,1,5.82,Warangal,2025
+25IT049,Suresh Singh,suresh.singh.25it049@college.edu,9779936769,Male,2007-01-24,Information Technology,1,9.1,Vijayawada,2025
+25IT050,Nandini Yadav,nandini.yadav.25it050@college.edu,9664138658,Female,2006-06-12,Information Technology,1,6.08,Chennai,2025
+25IT051,Tarun Rao,tarun.rao.25it051@college.edu,9423572858,Male,2007-12-18,Information Technology,1,7.97,Delhi,2025
+25IT053,Pranav Das,pranav.das.25it053@college.edu,9366564581,Male,2006-05-15,Information Technology,1,6.41,Karimnagar,2025
+25ME002,Nikhil Ahmed,nikhil.ahmed.25me002@college.edu,9624636385,Male,2006-06-15,Mechanical,1,5.1,Nizamabad,2025
+25ME006,Arjun Agarwal,arjun.agarwal.25me006@college.edu,9693269304,Male,2007-10-26,Mechanical,1,5.73,Visakhapatnam,2025
+25ME010,Pooja Pillai,pooja.pillai.25me010@college.edu,9464938258,Female,2007-08-01,Mechanical,1,9.58,Mumbai,2025
+25ME011,Varun Shetty,varun.shetty.25me011@college.edu,9463527356,Male,2007-05-16,Mechanical,1,8.05,Karimnagar,2025
+25ME012,Deepak Iyer,deepak.iyer.25me012@college.edu,9142329671,Male,2006-11-27,Mechanical,1,6.51,Tirupati,2025
+25ME013,Naveen Joshi,naveen.joshi.25me013@college.edu,9902601465,Male,2007-06-17,Mechanical,1,7.04,Bengaluru,2025
+25ME016,Faizan Sharma,faizan.sharma.25me016@college.edu,9732276010,Male,2007-05-02,Mechanical,1,6.59,Chennai,2025
+25ME021,Rahul Patel,rahul.patel.25me021@college.edu,9645127678,Male,2007-02-21,Mechanical,1,8.78,Secunderabad,2025
+25ME024,Aisha Kumar,aisha.kumar.25me024@college.edu,9139711044,Female,2006-08-23,Mechanical,1,6.44,Secunderabad,2025
+25ME026,Neha Goud,neha.goud.25me026@college.edu,9828092377,Female,2008-11-07,Mechanical,1,8.83,Secunderabad,2025
+25ME041,Keerthi Mishra,keerthi.mishra.25me041@college.edu,9247330045,Female,2008-12-28,Mechanical,1,8.44,Chennai,2025
+25ME042,Aarav Patel,aarav.patel.25me042@college.edu,9177880216,Male,2006-07-06,Mechanical,1,6.83,Karimnagar,2025
+25ME044,Kiran Menon,kiran.menon.25me044@college.edu,9279491823,Male,2007-03-30,Mechanical,1,9.76,Bengaluru,2025
+25ME045,Kavya Shetty,kavya.shetty.25me045@college.edu,9753204271,Female,2008-05-09,Mechanical,1,8.94,Delhi,2025
+25ME049,Gautam Sharma,gautam.sharma.25me049@college.edu,9798512415,Male,2007-12-31,Mechanical,1,8.88,Karimnagar,2025
+25ME054,Pranav Mehta,pranav.mehta.25me054@college.edu,9740895381,Male,2008-06-14,Mechanical,1,5.25,Delhi,2025
+25ME055,Gautam Bhat,gautam.bhat.25me055@college.edu,9140680121,Male,2007-06-19,Mechanical,1,5.43,Secunderabad,2025
+25ME058,Bhavana Naidu,bhavana.naidu.25me058@college.edu,9678336713,Female,2007-03-13,Mechanical,1,5.96,Warangal,2025
+25ME062,Harsha Khan,harsha.khan.25me062@college.edu,9661257031,Male,2008-04-13,Mechanical,1,9.21,Guntur,2025
+25ME064,Ravi Bhat,ravi.bhat.25me064@college.edu,9563316186,Male,2006-11-29,Mechanical,1,7.56,Nizamabad,2025
